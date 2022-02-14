@@ -1,0 +1,1 @@
+This is the typical snake game originally made for Nokia 6110
